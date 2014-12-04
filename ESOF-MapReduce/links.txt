@@ -1,0 +1,6 @@
+http://en.wikipedia.org/wiki/MapReduce
+http://www.infoq.com/news/2012/02/MapReducePatterns
+https://spark.apache.org/
+http://research.google.com/archive/mapreduce-osdi04-slides/index.html
+http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/
+http://static.usenix.org/legacy/events/osdi08/tech/full_papers/zaharia/zaharia_html/
